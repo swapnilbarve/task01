@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f834c4b7.css",
+    "main.js": "/static/js/main.76e3d879.js",
+    "static/media/image 1.png": "/static/media/image 1.60a9f3263be900cf92fa.png",
+    "static/media/banner12.png": "/static/media/banner12.38adc28f271a6cdfe67d.png",
+    "static/media/banner13.png": "/static/media/banner13.948bf6d08aebe4265d57.png",
+    "static/media/brandimagetwo.png": "/static/media/brandimagetwo.2651e036e8bbda407292.png",
+    "static/media/Rectangle 23.png": "/static/media/Rectangle 23.40dfc0aaeaf865ff7933.png",
+    "static/media/Rectangle 18.png": "/static/media/Rectangle 18.1a72eb7f380d703779a4.png",
+    "static/media/Rectangle 20.png": "/static/media/Rectangle 20.4e6467c40b402dceb79d.png",
+    "static/media/brandimagefour.png": "/static/media/brandimagefour.9034137e1b4e7a1e35ac.png",
+    "static/media/Rectangle 19.png": "/static/media/Rectangle 19.37a929f2071b4051eb6b.png",
+    "static/media/brandimagethree.png": "/static/media/brandimagethree.bc3014ab363156053891.png",
+    "static/media/brandimageone.png": "/static/media/brandimageone.643b19e457ea05a0db14.png",
+    "static/media/Rectangle 22.png": "/static/media/Rectangle 22.e13870e1aaac16110c94.png",
+    "static/media/image 2.png": "/static/media/image 2.cbfc7e4922d65ab65184.png",
+    "static/media/image 3.png": "/static/media/image 3.2848851a8aa3617929ad.png",
+    "static/media/Rectangle 21.png": "/static/media/Rectangle 21.b3ebeebc73fa63bbbae7.png",
+    "static/media/image 4.png": "/static/media/image 4.17a12862c04a906d722a.png",
+    "static/media/image 5.png": "/static/media/image 5.42bc0364cc0e5ebace6f.png",
+    "static/media/womenwear.png": "/static/media/womenwear.079ae31466ffddfe11ac.png",
+    "static/media/poloneck.png": "/static/media/poloneck.aa60b9a2ae5d7b1bcfc9.png",
+    "static/media/menwear.png": "/static/media/menwear.72e5e44be785dda9ddff.png",
+    "static/media/hoddie.png": "/static/media/hoddie.2e70135798edb6c65ba4.png",
+    "static/media/wintercollection.png": "/static/media/wintercollection.a81b1b519f7682d2c048.png",
+    "static/media/image 6.png": "/static/media/image 6.119c03a0903501df5df2.png",
+    "static/media/sleeveshirt.png": "/static/media/sleeveshirt.7058560ddc0168f6ef81.png",
+    "index.html": "/index.html",
+    "main.f834c4b7.css.map": "/static/css/main.f834c4b7.css.map",
+    "main.76e3d879.js.map": "/static/js/main.76e3d879.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f834c4b7.css",
+    "static/js/main.76e3d879.js"
+  ]
+}
