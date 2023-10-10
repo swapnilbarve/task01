@@ -1,11 +1,11 @@
 .footer{
   width: 100%;
-  padding-top: 80px;
- 
+  padding-top: 40px;
+  border-top: 1px solid #E0DFDE;
 }
 
 .footerSection_01{
-    width:85%;
+    width:88%;
     display: grid;
     grid-template-rows: 1fr;
     grid-template-columns: 330px 200px 220px 320px;
@@ -130,6 +130,25 @@
     .footerSection_01{
         grid-template-rows: repeat(4, 1fr);
         grid-template-columns: 1fr;
+        margin-bottom:-50px;
+    }
+    .onlineShopping{
+        margin-top:20px;
+    }
+    .onlineShopping > ul{
+        margin-top: 0px;
+    }
+    .onlineshopping01{
+        margin-top: -20px;
+    }
+    .onlineshopping02{
+        margin-top: -50px;
+    }
+    .contact{
+        margin-top:20px;
+    }
+    .aboutPlus__social-media{
+        margin-left: -20px;
     }
 }
 
@@ -139,13 +158,25 @@
         grid-template-rows: repeat(2, 1fr);
         grid-template-columns: repeat(2, 1fr);
     }
+    .onlineShopping > ul{
+        margin-top: 0px;
+    }
+    .onlineshopping01{
+        margin-top: 30px;
+    }
+    .onlineshopping02{
+        margin-top: 30px;
+    }
+    .contact{
+        margin-top:20px;
+    }
 }
 
 
 @media (min-width:1450px){
     
 .footerSection_01{
-    width:1200px;
+    width:1280px;
     margin: auto;
     margin-bottom: 50px;
   }

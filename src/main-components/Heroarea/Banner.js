@@ -43,7 +43,7 @@ const Banner = () => {
                         <div><img src={trendy} /></div>
                     </div>
                 </div>
-            </div>
+            </div> 
 
 
             {/* main products section */}
@@ -69,7 +69,7 @@ const Banner = () => {
             </div>
    
 
-            <div className='featuredproduct' >
+           /* <div className='featuredproduct' >
             <div class="headline"><p>Featured Products</p></div>
 
 
@@ -126,7 +126,7 @@ const Banner = () => {
             ))}
         </div>
 
-
+        {/* lose fit offer banner */}
          <div className='losefitimage'>
             <img src={losefit} />
          </div>      

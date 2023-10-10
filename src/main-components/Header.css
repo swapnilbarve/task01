@@ -14,7 +14,7 @@
 .topHeader-info{
     display: flex;
     justify-content: space-between;
-    width:82%;
+    width:85%;
     margin: auto;
 }
 .topHeader-Heading > h4{
@@ -45,7 +45,7 @@
 .nav-item{
     display: flex;
     justify-content: space-between;
-    width:82%;
+    width:85%;
     margin: auto;
 }
 
@@ -90,10 +90,42 @@
     .logo{
         display: none;
     }
-    
+    .topHeader-info{
+        width:90%;
+    }
+    .topHeader-Heading > h4,.topheader-contact > span{
+       font-size: 10px;
+       margin-left:5px;
+    }
+    .navbar{
+        height:68px;
+    }
+    .nav-item{
+        width:90%;
+    }
 }
+
+@media (min-width:600px) and (max-width:1024px) {
+    .logo{
+        display: block;
+    }
+    .topHeader-info{
+        width:90%;
+    }
+    .topHeader-Heading > h4,.topheader-contact > span{
+       font-size: 14px;
+    }
+    .navbar{
+        height:78px;
+    }
+    .nav-item{
+        width:90%;
+    }
+}
+
+
 @media (min-width:1450px){
     .nav-item, .topHeader-info{
-       width:1120px;
+       width:1220px;
     }
 }

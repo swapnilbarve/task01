@@ -8,8 +8,19 @@ const ProductCard = ({productimg}) => {
 
 
       <div className="product">
+      <div class="content">
         <img src={productimg} alt="Product Image"
          className="product-image" />
+         <div class="content-overlay"></div>
+         <div class="content-details fadeIn-bottom">
+        <h3 class="content-title">
+          <div className='hoveritem' ><i class="fa fa-shopping-cart"></i></div>
+          <div className='hoveritem' ><i class="fa fa-heart"></i></div>
+          <div className='hoveritem' ><i class="fa fa-share-alt"></i></div>
+        </h3>
+       
+      </div>
+      </div>
         <div className="product-details">
           <h2 className="product-title">Men Henley Neck
             Full Sleeve Red Wine</h2>
@@ -24,6 +35,8 @@ const ProductCard = ({productimg}) => {
                 <div className='size'>XXL</div>
           </div>
         </div>
+
+     
       </div>
 
       

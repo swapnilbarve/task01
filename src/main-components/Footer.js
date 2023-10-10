@@ -28,7 +28,7 @@ const Footer = () => {
             <li>Streetwear Collections</li>
           </ul>
         </div>
-        <div className='onlineShopping'>
+        <div className='onlineShopping onlineshopping01'>
         <h3>CUSTOMER POLICIES</h3>
           <ul>
             <li>About Us</li>
@@ -38,7 +38,7 @@ const Footer = () => {
             <li>Contact Us</li>
           </ul>
         </div>
-        <div className='storeInformation'>
+        <div className='storeInformation onlineshopping02'>
           <h3>STORE INFORMATION</h3>
           <div className='contact'>
             <img src={gps}/> 

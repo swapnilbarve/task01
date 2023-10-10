@@ -16,7 +16,9 @@ const Offers = () => {
     <>
     <div className='offers'>
         <div className='offerCard'>
-            <div className='offer__img'> <img src={diamond} /></div>
+            <div className='offer__img'>
+             <img src={diamond} />
+             </div>
             <h5>Hurry Up!</h5>
             <h1>85% OFF</h1>
             <h3>Sale</h3>
@@ -73,9 +75,9 @@ const Offers = () => {
 
     {/* subscribe section */}
 
-    <div className='subscribe-section'>
-        <div className='subscribe-section__box'>
-        <div><img src={vectorleft} /></div>
+<div className='subscribe-section'>
+    <div className='subscribe-section__box'>
+        <div><img src={vectorleft} className='vectorleft' /></div>
 
         <div className='subscribe__info'>
          <h1 className='subscribe__title'>Subscribe to get updates on exciting offers & deals</h1>
@@ -87,15 +89,8 @@ const Offers = () => {
 
 
         <div><img src={vectorright}  className='vectorright' /></div>
-      
-       
-       
-      
-           
-        
-
-        </div>
     </div>
+</div>
 
 
 
