@@ -741,7 +741,7 @@ p {
     }
 }
 
-@media (min-width:1450px){
+@media (min-width:1440px){
     .categories-container, .product-grid, .collection-grid, .subscribe-section__box{
        width:1250px;
        margin: auto;
